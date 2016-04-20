@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Igor",
+    "password": "8586",
+    "id": "31f1c66a-28f5-4aac-bb7b-cda0f3f450e9"
+  },
+  {
+    "name": "Natalya",
+    "password": "1422",
+    "id": "380d9f1e-f4d8-4202-b0e8-882ca15f6920"
+  },
+  {
+    "name": "Roman",
+    "password": "7777",
+    "id": "c213507f-7dad-4cd7-8ea1-a4e27466b2ff"
+  },
+  {
+    "name": "Ira",
+    "password": "5563",
+    "id": "12f4deb9-63a3-498b-93cc-2d1f31332e19"
+  }
+]
